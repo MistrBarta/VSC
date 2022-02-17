@@ -1,0 +1,29 @@
+* {
+    user-select: none;
+}
+
+.cup {
+    width: 150px;
+    transition: .2s margin-bottom ease;
+    cursor: pointer;
+}
+
+#wrapper {
+    display: flex;
+    align-items: flex-end;
+    margin: 0 auto;
+    width: max-content;
+    height: 50vh;
+}
+
+#ball {
+    width: 50px;
+}
+
+.active-cup {
+    margin-bottom: 6.2em !important;
+}
+
+.cup:hover {
+    margin-bottom: 0.4em;
+}

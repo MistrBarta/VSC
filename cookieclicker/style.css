@@ -1,0 +1,23 @@
+* {
+    font-family: 'Pacifico', cursive;
+    background-color: salmon;
+}
+
+#co {
+    display: table;
+    margin:  auto;
+    max-width: 320px;
+    width: 100%;
+}
+
+#co-info {
+    text-align: center;
+    font-size: 42px;
+}
+
+#auto-clicker {
+    display: table;
+    margin: auto;
+    max-width: 500px;
+    height: 80px;
+}
